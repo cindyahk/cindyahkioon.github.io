@@ -7,61 +7,33 @@
   <body>
     <?php include "navigation.php" ?>
     <div id="portfolio-content" class="col-lg-12">
-      <div class="card-columns">
-        <div class="card">
-          <a href="http://codepen.io/cindyak86/full/zZErad/">
-            <img class="card-img-top" src="img/weather-large.png"  width="100%"/>
+      <div class="row">
+        <div class="col-sm-4">
+          <a href="http://codepen.io/cindyak86/full/zZErad/" class="project project-weather">
+            <img class="project-img" width="100%"/>
+            <h4 class="project-title">Weather Page</h4>
           </a>
-          <div class="card-block">
-            <h4 class="card-title">Weather Page</h4>
-            <p class="card-text"></p>
-          </div>
         </div>
-        <div class="card">
-          <a href="http://codepen.io/cindyak86/pen/oWbXvz">
-            <img class="card-img-top" src="img/random-quote-large.png"  width="100%"/>
+        <div class="col-sm-4">
+          <a href="http://codepen.io/cindyak86/pen/oWbXvz" class="project project-rquote">
+            <img class="project-img" width="100%"/>
+            <h4 class="project-title">Random Quote</h4>
           </a>
-          <div class="card-block">
-            <h4 class="card-title">Random Quote</h4>
-            <p class="card-text"></p>
-          </div>
         </div>
-        <div class="card">
-          <a href="http://codepen.io/cindyak86/pen/wdJgEP">
-            <img class="card-img-top" src="img/wikipedia-large.png"  width="100%"/>
+        <div class="col-sm-4">
+          <a href="http://codepen.io/cindyak86/pen/wdJgEP"  class="project project-wikipedia">
+            <img class="project-img"  width="100%"/>
+            <h4 class="project-title">Wikipedia Search</h4>
           </a>
-          <div class="card-block">
-            <h4 class="card-title">Wikipedia Search</h4>
-            <p class="card-text"></p>
-          </div>
         </div>
-        <div class="card">
-          <a href="http://codepen.io/cindyak86/pen/zZErad">
-            <img class="card-img-top" src="img/tribute-page.png"  width="100%"/>
-          </a>
-          <div class="card-block">
-            <h4 class="card-title">Tribute Page</h4>
-            <p class="card-text"></p>
-          </div>
         </div>
-        <div class="card">
-          <a href="http://codepen.io/cindyak86/pen/zZErad">
-            <img class="card-img-top" src=""  width="100%"/>
-          </a>
-          <div class="card-block">
-            <h4 class="card-title"></h4>
-            <p class="card-text"></p>
+        <div class="row">
+          <div class="col-sm-4">
+            <a class="project project-tribute-page" href="http://codepen.io/cindyak86/pen/zZErad">
+              <img class="project-img"  width="100%"/>
+              <h4 class="project-title">Tribute Page</h4>
+            </a>
           </div>
-        </div>
-        <div class="card">
-          <a href="">
-            <img class="card-img-top" src=""  width="100%"/>
-          </a>
-          <div class="card-block">
-            <h4 class="card-title"></h4>
-            <p class="card-text"></p>
-          </div>
-        </div>
       </div>
     </div>
   </body>
