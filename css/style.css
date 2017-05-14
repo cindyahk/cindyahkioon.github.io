@@ -66,8 +66,8 @@ h1 {
   font-weight: 400;
 }
 
-#top-menu .active {
-  border: 1px solid #fff;
+#top-menu a.active {
+  border-bottom: 1px solid #A7304F;
 }
 
 #top-menu a.nav-link:hover {
