@@ -11,7 +11,7 @@
             <h1>Meet Cindy</h1>
         </div>
         <div id="about-content" class="row">
-          <div class="col-md-4">
+          <div class="col-md-4 col-xs-4">
             <img id="about-pic" class="rounded-circle img-fluid" src="img/cindyahkioon.jpg"/>
             <div id="about-contact">
               <a href="https://linkedin.com/cindyahkioon" alt="linkedin" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a>
@@ -21,7 +21,7 @@
 
             </div>
           </div>
-          <div class="col-md-8">
+          <div class="col-md-8 col-xs-8">
             <p>WELCOME!</p>
             <p>Hi, I am Cindy and I come from Mauritius, but currently living in Beijing. </p>
 
