@@ -10,7 +10,7 @@
     </div>
     <div id="contact-right" class="right col-lg-6 col-md-12">
       <h3>Connect with me!</h3>
-      <p>You can contact me via email at cindy.ahkioon(at)gmail.com, or follow me via one of the links below. </p>
+      <p>You can contact me or follow me via one of the links below. </p>
       <div class="social-icons">
         <a href="https://instagram.com/cindy.style" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>
         <a href="https://linkedin.com/in/cindyahkioon" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a>
