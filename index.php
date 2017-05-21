@@ -13,7 +13,7 @@
               <h2>Front end developer</h2>
           </div>
           <div class="bounce">
-            <a href="#about"><i id="bounce" class="fa fa-2x fa-chevron-circle-down"></i></a>
+            <a href="#about"><i id="bounce" class="fa fa-3x fa-chevron-circle-down"></i></a>
           </div>
       </div>
       <div class="container-fluid">

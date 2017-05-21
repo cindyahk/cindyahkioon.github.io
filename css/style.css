@@ -1,6 +1,6 @@
 html, body {
   height: 100%;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 body {
@@ -13,17 +13,17 @@ body {
 
 p {
   text-align: justify;
-  font-size: calc(1.6rem - 1vmin);
+  //font-size: calc(1.6rem - 1vmin);
 }
 
 h1 {
   font-family: "Rock Salt", cursive;
-  font-size: calc(3rem - 1vmin);
+  //font-size: calc(3rem - 1vmin);
 }
 
 h2 {
   font-family: "Indie Flower", cursive;
-  font-size: calc(2.5rem - 1vmin);
+  //font-size: calc(2.5rem - 1vmin);
 }
 
 #header nav {
@@ -32,7 +32,7 @@ h2 {
 
 #top-menu a.nav-link {
   color: #A7304F;
-  font-size: calc(1.5rem - 1vmin);
+  //font-size: calc(1.5rem - 1vmin);
   font-weight: 400;
 }
 
@@ -152,7 +152,7 @@ h2 {
 }
 
 .menu {
-  font-size: calc(1.5rem - 1vmin);
+  //font-size: calc(1.5rem - 1vmin);
   position: absolute;
   bottom: 15px;
   text-align: center;
