@@ -12,10 +12,10 @@
       <h3>Connect with me!</h3>
       <p>You can contact me or follow me via one of the links below. </p>
       <div class="social-icons">
-        <a href="https://instagram.com/cindy.style" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>
-        <a href="https://linkedin.com/in/cindyahkioon" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a>
-        <a href="https://github.com/cindyahkioon" target="_blank"><i class="fa fa-github fa-2x"></i></a>
-        <a href="https://codepen.io/cindyak86" target="_blank"><i class="fa fa-codepen fa-2x"></i></a>
+        <a href="https://instagram.com/cindy.style" target="_blank"><i class="fa fa-instagram fa-3x"></i></a>
+        <a href="https://linkedin.com/in/cindyahkioon" target="_blank"><i class="fa fa-linkedin fa-3x"></i></a>
+        <a href="https://github.com/cindyahkioon" target="_blank"><i class="fa fa-github fa-3x"></i></a>
+        <a href="https://codepen.io/cindyak86" target="_blank"><i class="fa fa-codepen fa-3x"></i></a>
       </div>
     </div>
 </div>

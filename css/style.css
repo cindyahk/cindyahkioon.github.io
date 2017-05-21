@@ -1,5 +1,6 @@
 html, body {
   height: 100%;
+  font-size: 16px;
 }
 
 body {
@@ -7,22 +8,22 @@ body {
   //background-size: cover;
   font-family: "Raleway", sans-serif;
   font-weight: 200;
-  font-size: calc(1rem + 0.2vw);
   margin:0 auto;
 }
 
 p {
   text-align: justify;
+  font-size: calc(1.6rem - 1vmin);
 }
 
 h1 {
   font-family: "Rock Salt", cursive;
-  font-size: calc(1.5rem + 1vw);
+  font-size: calc(3rem - 1vmin);
 }
 
 h2 {
   font-family: "Indie Flower", cursive;
-  font-size: calc(1.2rem + 1vw);
+  font-size: calc(2.5rem - 1vmin);
 }
 
 #header nav {
@@ -31,7 +32,7 @@ h2 {
 
 #top-menu a.nav-link {
   color: #A7304F;
-  font-size: 24px;
+  font-size: calc(1.5rem - 1vmin);
   font-weight: 400;
 }
 
@@ -151,7 +152,7 @@ h2 {
 }
 
 .menu {
-  font-size: 18px;
+  font-size: calc(1.5rem - 1vmin);
   position: absolute;
   bottom: 15px;
   text-align: center;
@@ -289,9 +290,14 @@ a.project:hover:before {
   padding: 50px;
   text-align: center;
 }
+
 #contact-right h3 {
   color: #723147;
   margin: 10% 0;
+}
+
+#contact-right p {
+  text-align: center;
 }
 
 .social-icons {
